@@ -10,17 +10,22 @@
 
 ---
 
-### 👨‍💻 About Me
-Tôi là một **Kỹ sư Hệ thống** chuyên thiết kế và quản trị hạ tầng mạng, máy chủ cho các hệ thống quy mô lớn (Hospitality, Healthcare, Industrial). Tôi đam mê tối ưu hóa hiệu suất phần cứng và xây dựng các giải pháp giám sát hệ thống thông minh.
+### 👨‍💻 Professional Profile
+Tôi là một Kỹ sư Hệ thống (System Engineer) chuyên trách thiết kế, triển khai và tối ưu hóa hạ tầng mạng cùng hệ thống máy chủ doanh nghiệp trong các lĩnh vực trọng yếu như Y tế, Khách sạn và Công nghiệp nặng. Với tư duy lấy hiệu suất làm trọng tâm, tôi tập trung vào việc hiện đại hóa hạ tầng phần cứng và xây dựng hệ sinh thái giám sát thông minh để đảm bảo tính sẵn sàng cao nhất cho hệ thống.
 
-- 🔭 **Dự án hiện tại:** Phát triển [BOT_Discord](https://github.com/Hungpeter/BOT_Discord) và tối ưu hóa Load Balancing cho hệ thống HRM.
-- 🏗️ **Kinh nghiệm thực chiến:** - Triển khai & di trú chính sách bảo mật trên các dòng **FortiGate (60E, 60F, 100F)**.
-  - Vận hành hệ thống máy chủ hiệu năng cao **IBM Power AC922** và CPU **AMD EPYC**.
-  - Quản lý hạ tầng lưu trữ dữ liệu quy mô lớn (>120TB).
-- 👯 **Mong muốn hợp tác:** Các dự án mã nguồn mở về **DevOps, Monitoring Tools** và tự động hóa hệ thống.
-- 🤝 **Lĩnh vực đang nghiên cứu:** Mở rộng hệ thống phân tán (Scaling distributed systems) và tối ưu hóa nhân Kernel.
-- ⚡ **Sở thích:** Hi-Fi Audio (Marshall, Edifier), Setup góc làm việc tối giản và hiện đại.
+🔭 Current Focus: Hoàn thiện giải pháp tự động hóa qua BOT_Discord và tối ưu hóa cân bằng tải (Load Balancing) cho hệ thống ERP/HRM chịu tải lớn.
 
+🏗️ Core Expertise: - Network Security: Quản trị và thực thi di trú chính sách bảo mật (Policy Migration) trên các dòng FortiGate (60E/60F/100F).
+
+High-Performance Computing: Vận hành và tối ưu hóa máy chủ hiệu năng cao IBM Power AC922 cùng các kiến trúc CPU AMD EPYC.
+
+Storage Management: Thiết lập và quản lý hạ tầng lưu trữ quy mô lớn với dung lượng trên 120TB.
+
+👯 Collaboration: Sẵn sàng tham gia vào các dự án mã nguồn mở về DevOps, Infrastructure as Code (IaC) và hệ thống giám sát tập trung (Prometheus/Grafana).
+
+🤝 Researching: Giải thuật mở rộng hệ thống phân tán (Distributed Systems Scaling) và tinh chỉnh nhân hệ điều hành (Kernel Tuning) để tối ưu hóa tài nguyên phần cứng.
+
+⚡ Personal Interest: Đam mê kỹ thuật âm thanh Hi-Fi và thiết kế không gian làm việc tối giản (Minimalist Workspace) nhằm tối ưu hóa sự tập trung.
 ---
 
 ### 🛠️ Tech Stack
@@ -42,8 +47,8 @@ Tôi là một **Kỹ sư Hệ thống** chuyên thiết kế và quản trị h
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Hungpeter&show_icons=true&theme=radical" alt="Hungpeter's GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungpeter&layout=compact&theme=radical" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=vawnHufng&show_icons=true&theme=radical" alt="vawnHufng's GitHub stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vawnHufng&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
 ---
