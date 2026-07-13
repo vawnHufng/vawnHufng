@@ -1,44 +1,45 @@
 <div align="center">
   <h1>Hi 👋, I'm Huong Van Hung</h1>
-  <h3>System Engineer | Infrastructure Specialist | Tech Enthusiast</h3>
+  <h3>System Engineer | Infrastructure & Systems Specialist | Tech Enthusiast</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Main_OS-Ubuntu_Server-orange?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/Networking-FortiGate_|_MikroTik-red?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Monitoring-Grafana_|_Prometheus-informational?style=for-the-badge&logo=grafana&logoColor=white" />
+    <img src="https://img.shields.io/badge/OS-Windows_Server_%7C_Linux-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Proxy_%26_LB-Nginx_%7C_HAProxy-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/Monitoring-Grafana_%7C_Prometheus-informational?style=for-the-badge&logo=grafana&logoColor=white" />
   </p>
 </div>
 
 ---
 
 ### 👨‍💻 Professional Profile
-Tôi là một **Kỹ sư Hệ thống (System Engineer)** chuyên trách thiết kế, triển khai và tối ưu hóa hạ tầng mạng cùng hệ thống máy chủ doanh nghiệp. Với tư duy lấy hiệu suất làm trọng tâm, tôi tập trung vào việc hiện đại hóa hạ tầng phần cứng và xây dựng hệ sinh thái giám sát thông minh để đảm bảo tính sẵn sàng cao nhất cho hệ thống.
+Tôi là một **Kỹ sư Hệ thống (System Engineer)** chuyên trách thiết kế, triển khai và tối ưu hóa hạ tầng máy chủ doanh nghiệp trên cả hai nền tảng Linux và Windows Server. Với tư duy lấy tính sẵn sàng cao (High Availability) và hiệu suất làm trọng tâm, tôi tập trung vào việc quản trị hệ điều hành chuyên sâu, cấu hình hệ thống cân bằng tải (Load Balancing), Reverse Proxy và xây dựng hệ sinh thái giám sát thông minh để đảm bảo dịch vụ luôn vận hành ổn định mượt mà.
 
-* 🔭 **Current Focus:** Hoàn thiện giải pháp tự động hóa qua **Discord Bot Integration** và tối ưu hóa cân bằng tải (**Load Balancing**) cho các hệ thống ứng dụng chịu tải lớn.
+* 🔭 **Current Focus:** Tối ưu hóa các cụm cân bằng tải quy mô lớn (**Nginx/HAProxy**), tích hợp tự động hóa vận hành qua **Discord Bot** và nâng cao tính bảo mật cho hệ thống Active Directory / Linux Server.
 * 🏗️ **Core Expertise:**
-    * **Enterprise Network Security:** Chuyên trách quản trị hạ tầng an ninh mạng, điều phối chính sách firewall và bảo mật đa lớp trong các môi trường doanh nghiệp phức tạp.
-    * **Multi-Architecture Infrastructure:** Vận hành hệ thống máy chủ đa kiến trúc (**x86, ppc64le**) trên các nền tảng **Hybrid OS (Linux & Windows Server)**, đảm bảo tính sẵn sàng cao (High Availability).
-    * **Scalable Storage & Performance Tuning:** Thiết kế giải pháp lưu trữ quy mô lớn và tinh chỉnh hiệu năng hệ thống (**Performance Optimization**) cho các luồng dữ liệu đặc thù.
-* 👯 **Collaboration:** Sẵn sàng tham gia vào các dự án mã nguồn mở về **DevOps**, **Infrastructure as Code (IaC)** và hệ thống giám sát tập trung.
-* 🤝 **Researching:** Giải thuật mở rộng hệ thống phân tán (**Distributed Systems Scaling**) và tinh chỉnh nhân hệ điều hành để tối ưu hóa tài nguyên phần cứng.
+    * **Hybrid OS Administration:** Quản trị chuyên sâu hệ thống máy chủ đa nền tảng (**Windows Server & Linux**) trên các kiến trúc phần cứng khác nhau (**x86, ppc64le**), làm chủ cấu hình các dịch vụ cốt lõi (AD DS, IIS, Nginx, Systemd, SSH).
+    * **High Availability & Load Balancing:** Thiết kế và triển khai các giải pháp Reverse Proxy, Cân bằng tải, Caching chống nghẽn và tối ưu hóa luồng traffic ứng dụng chịu tải cao.
+    * **Virtualization & Containerization:** Vận hành vững vàng các môi trường ảo hóa doanh nghiệp (**VMware ESXi, Proxmox VE**) kết hợp đóng gói ứng dụng với **Docker** nhằm tối ưu tài nguyên phần cứng.
+    * **Performance Tuning & Observability:** Tinh chỉnh nhân hệ điều hành (Kernel tuning), quản trị Enterprise Storage và xây dựng dashboard giám sát, cảnh báo tự động theo thời gian thực.
+* 🌐 **Network Background (Support):** Có nền tảng tốt về Routing/VLAN và cấu hình tường lửa (**FortiGate, MikroTik**) phục vụ trực tiếp cho việc phân luồng và bảo vệ hạ tầng máy chủ đa lớp.
 
 ---
 
 ### 🛠️ Tech Stack (English)
 
-**Operating Systems & Infrastructure**
-- **Server OS:** Ubuntu Server, Windows Server, Multi-architecture systems (ppc64le/x86).
-- **Virtualization:** VMware ESXi, Proxmox VE.
-- **Optimization:** Enterprise Storage management & System Performance Tuning.
+**Operating Systems & Core Administration**
+- **Linux Administration:** Ubuntu Server, RHEL/CentOS, Multi-architecture (ppc64le/x86), System Tuning, Shell Scripting.
+- **Windows Server:** Active Directory (AD DS, DNS, DHCP), Group Policy (GPO), IIS Web Server, WSUS, Failover Clustering.
+- **Virtualization & Storage:** VMware ESXi, Proxmox VE, SAN/NAS Enterprise Storage, Performance Optimization.
 
-**Networking & Security**
-- **Next-Gen Firewalls:** Fortinet (FortiGate), DrayTek, MikroTik.
-- **Connectivity:** Site-to-Site VPN, OSPF Routing, VLAN Segmentation, Enterprise Data Streaming.
+**Proxy, Load Balancing & DevOps**
+- **Proxy & LB:** Nginx (Advanced Load Balancing & Reverse Proxy), HAProxy.
+- **Containerization:** Docker, Docker Compose.
+- **Observability:** Prometheus & Grafana (System Dashboards, Metrics Collection & Smart Alerting).
+- **CI/CD & Tools:** Git, Discord Bot Automation.
 
-**DevOps & Observability**
-- **Web Infrastructure:** Nginx (Advanced Load Balancing), IIS.
-- **Monitoring:** Prometheus & Grafana (System Dashboards & Alerting).
-- **Tools:** Docker, Docker Compose, Git.
+**Networking & Security (Secondary)**
+- **Next-Gen Firewalls:** Fortinet (FortiGate), MikroTik, DrayTek.
+- **Network Services:** Site-to-Site VPN, OSPF Routing, VLAN Segmentation, Traffic Control.
 
 ---
 
@@ -51,10 +52,10 @@ Tôi là một **Kỹ sư Hệ thống (System Engineer)** chuyên trách thiế
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
