@@ -14,9 +14,9 @@
 
 ## 👨‍💻 Professional Profile
 
-Tôi là một **System & Infrastructure Engineer** chuyên sâu về thiết kế, quản trị và vận hành hệ thống hạ tầng máy chủ doanh nghiệp trên các nền tảng hỗn hợp (**Windows Server & Linux Server**).
+Tôi là một **System & Infrastructure Engineer** quản trị và vận hành hệ thống hạ tầng máy chủ doanh nghiệp trên các nền tảng hỗn hợp (**Windows Server & Linux Server**).
 
-Có kinh nghiệm thực chiến trong việc triển khai và tối ưu hạ tầng CNTT quy mô lớn đòi hỏi tính sẵn sàng cao (High Availability) và bảo mật nghiêm ngặt. Đặc biệt mạnh về giải pháp hạ tầng cho khối **Y tế (Healthcare IT)**, vận hành mượt mà các hệ thống cốt lõi như **HIS, PACS (ở mức hạ tầng), Application Server, Database** và các dịch vụ tích hợp liên tuyến.
+Có kinh nghiệm thực chiến trong việc triển khai và tối ưu hạ tầng CNTT quy mô lớn đòi hỏi tính sẵn sàng cao (High Availability) và bảo mật nghiêm ngặt. Đặc biệt mạnh về giải pháp hạ tầng cho khối **Y tế (Healthcare IT)**, vận hành mượt mà các hệ thống cốt lõi như **HIS, PACS , Application Server, Database** và các dịch vụ tích hợp liên tuyến.
 
 **Mục tiêu cốt lõi trong công việc:**
 - Đảm bảo tính ổn định và liên tục của dịch vụ (99.9% Uptime).
@@ -44,11 +44,7 @@ Xây dựng giải pháp giám sát toàn diện, trực quan hóa dữ liệu t
 
 ### 🖥️ Virtualization & Hardware Management
 *   **Ảo hóa & Hypervisor:** Vận hành và tối ưu tài nguyên trên môi trường **VMware ESXi (vCenter)** và hệ thống ảo hóa **Proxmox VE**. Mở rộng các cụm tài nguyên (CPU, Memory, Storage Provisioning) linh hoạt.
-*   **Enterprise Hardware:** Quản trị trực tiếp hệ thống máy chủ vật lý cao cấp (Dell PowerEdge, IBM AC922), am hiểu kiến trúc vi xử lý **AMD EPYC / Intel Xeon** và tối ưu hóa các mảng lưu trữ dung lượng lớn sử dụng Enterprise SSD/NVMe RAID.
-
-### 🎥 Large-Scale Surveillance Storage
-*   Thiết kế và triển khai hệ thống lưu trữ camera giám sát tập trung sử dụng nền tảng **Shinobi NVR**.
-*   Tối ưu hóa luồng ghi dữ liệu trực tiếp từ hơn 32+ camera độ phân giải cao, cấu hình cơ chế tự động dọn dẹp (Auto-purge thresholds) trên các mảng đĩa dung lượng lớn (>120TB).
+*   **Enterprise Hardware:** Quản trị trực tiếp hệ thống máy chủ vật lý cao cấp (Dell PowerEdge, HPE, H3C..), am hiểu kiến trúc vi xử lý **AMD EPYC / Intel Xeon** và tối ưu hóa các mảng lưu trữ dung lượng lớn sử dụng Enterprise SSD/NVMe RAID.
 
 ### 🗄️ Database Administration
 *   **Microsoft SQL Server:** Thực hiện các tác vụ quản trị cốt lõi bao gồm Backup/Restore chiến lược, lập lịch Database Maintenance, giám sát hiệu năng truy vấn, cấu hình SQL Agent Jobs và thực hiện migration dữ liệu an toàn.
@@ -70,7 +66,7 @@ Xây dựng giải pháp giám sát toàn diện, trực quan hóa dữ liệu t
 
 ### 🤖 Prometheus Discord Bot (Infrastructure Monitoring via ChatOps)
 *   **Mô tả:** Thiết kế và phát triển công cụ ChatOps dưới dạng một **Discord Bot bằng JavaScript (Node.js)** để truy vấn trực tiếp trạng thái hạ tầng từ xa.
-*   **Giải pháp:** Tận dụng hệ thống Slash Commands (`deploy-commands.js`) để kết nối API của Prometheus, truy vấn realtime các số liệu PromQL về tài nguyên máy chủ (CPU, RAM, Disk, Uptime) của cụm máy chủ ảo hóa **Proxmox VE** và máy chủ vật lý, xuất dữ liệu trực quan ra định dạng Discord Embed.
+*   **Giải pháp:** Tận dụng hệ thống Slash Commands (`deploy-commands.js`) để kết nối API của Prometheus, truy vấn realtime các số liệu PromQL về tài nguyên máy chủ (CPU, RAM, Disk, Uptime) của cụm máy chủ ảo hóa và máy chủ vật lý, xuất dữ liệu trực quan ra định dạng Discord Embed.
 *   **Kết quả:** Giảm thiểu thời gian truy cập cổng quản trị tập trung, giúp đội ngũ kỹ thuật có thể check nhanh tình trạng máy chủ trực tiếp ngay trên kênh chat Discord của team.
 
 ---
@@ -80,11 +76,10 @@ Xây dựng giải pháp giám sát toàn diện, trực quan hóa dữ liệu t
 | Phân mục | Công nghệ & Công cụ |
 | :--- | :--- |
 | **Operating Systems** | Windows Server (2016-2022), Ubuntu Server, Linux ppc64le |
-| **Virtualization & Hardware** | VMware ESXi, vCenter, Proxmox VE, Dell PowerEdge, IBM Power Systems |
+| **Virtualization & Hardware** | VMware ESXi, vCenter, Proxmox VE, Dell PowerEdge, IBM Power Systems, HPE, H3C, Supermicro |
 | **Monitoring / Observability** | Prometheus, Grafana OSS, Alertmanager, SNMP/Node/Windows Exporters |
 | **Networking & Security** | FortiGate Firewalls, MikroTik RouterOS, Cisco Switches, VPN Site-to-Site, VLAN |
-| **Storage / NVR** | Shinobi NVR, Enterprise Storage Arrays (120TB+), NVMe/SSD Architecture |
-| **Databases & Web Servers** | MS SQL Server, Nginx, IIS, PHP (7.4 -> 8.2 Environment) |
+| **Databases & Web Servers** | MS SQL Server, Nginx, IIS |
 | **DevOps & Scripting** | Docker, Docker Compose, Git, JavaScript (Node.js), PowerShell, Bash, Python |
 
 ---
