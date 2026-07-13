@@ -4,7 +4,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/OS-Windows_Server_%7C_Linux-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/Proxy_%26_LB-Nginx_%7C_HAProxy-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/Proxy-Nginx_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/Monitoring-Grafana_%7C_Prometheus-informational?style=for-the-badge&logo=grafana&logoColor=white" />
   </p>
 </div>
